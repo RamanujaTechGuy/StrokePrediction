@@ -38,8 +38,7 @@ By using predictive analytics, this project contributes to:
 10) bmi: body mass index
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
-
-*Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 ---
 
 Feel free to reach out for any suggestions or collaborations. Let's make a difference in healthcare!
